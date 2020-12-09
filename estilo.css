@@ -1,0 +1,11 @@
+body{
+	background-color: #ffe6f2;
+}
+
+h5{
+	font-size: 200%;
+	color: #FF4500;
+	text-shadow: 3px 3px 10px #b3b3ff;
+	font-family: 'Trebuchet MS'; 
+	letter-spacing: 15px;
+}
