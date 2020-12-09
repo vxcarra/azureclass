@@ -12,11 +12,10 @@
 
 </div>
 
----
+  My web : ) https://proud-island-0ab3c8710.azurestaticapps.net
 
 <p align="center"> Learn the skills to build and grow diverse technology communities on campus with training, mentorship, and support from GitHub.
 
-    <br> 
 </p>
 
 ## 📝 Table of Contents
@@ -33,7 +32,7 @@
 
 ## 🧐 About <a name = "about"></a>
 
----
+Get your own Tanuki trip for just a few bells.
 
 ## 🏁 Getting Started <a name = "getting_started"></a>
 
