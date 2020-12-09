@@ -16,6 +16,8 @@
 
 <p align="center"> Learn the skills to build and grow diverse technology communities on campus with training, mentorship, and support from GitHub.
     <br> 
+  https://proud-island-0ab3c8710.azurestaticapps.net
+    <br> 
 </p>
 
 ## 📝 Table of Contents
@@ -32,7 +34,7 @@
 
 ## 🧐 About <a name = "about"></a>
 
-Write about 1-2 paragraphs describing the purpose of your project.
+https://proud-island-0ab3c8710.azurestaticapps.net
 
 ## 🏁 Getting Started <a name = "getting_started"></a>
 
