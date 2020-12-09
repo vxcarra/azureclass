@@ -15,8 +15,7 @@
 ---
 
 <p align="center"> Learn the skills to build and grow diverse technology communities on campus with training, mentorship, and support from GitHub.
-    <br> 
-  https://proud-island-0ab3c8710.azurestaticapps.net
+
     <br> 
 </p>
 
@@ -34,7 +33,7 @@
 
 ## 🧐 About <a name = "about"></a>
 
-https://proud-island-0ab3c8710.azurestaticapps.net
+---
 
 ## 🏁 Getting Started <a name = "getting_started"></a>
 
